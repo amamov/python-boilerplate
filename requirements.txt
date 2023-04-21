@@ -1,0 +1,7 @@
+flake8
+black
+
+fastapi==0.95.1
+uvicorn==0.21.1
+
+gspread
